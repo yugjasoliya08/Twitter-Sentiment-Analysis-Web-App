@@ -1,0 +1,11 @@
+text,cleaned_text,polarity,subjectivity,sentiment
+I love the new features of ChatGPT! Amazing update!,love new features chatgpt amazing update,0.4121212121212121,0.6515151515151515,Positive
+Disappointed with the current political scenario. #India,disappointed current political scenario india,-0.25,0.4166666666666667,Negative
+Can't wait for the next IPL season to start!,cant wait next ipl season start,0.0,0.0,Neutral
+AI is revolutionizing everything. Super cool stuff!,ai revolutionizing everything super cool stuff,0.3416666666666667,0.6583333333333333,Positive
+"Terrible service by the airline, never flying again.",terrible service airline never flying,-1.0,1.0,Negative
+"Neutral about the new budget, nothing impressive.",neutral new budget nothing impressive,0.5681818181818181,0.7272727272727273,Positive
+The movie Kalki 2898 AD was mind-blowing!,movie kalki ad mindblowing,0.0,0.0,Neutral
+Traffic is the worst today 😡 #Ahmedabad,traffic worst today 😡 ahmedabad,-1.0,1.0,Negative
+"Modi's speech was inspiring, truly a leader.",modis speech inspiring truly leader,0.5,1.0,Positive
+I don't care about cricket much these days.,dont care cricket much days,0.2,0.2,Positive
