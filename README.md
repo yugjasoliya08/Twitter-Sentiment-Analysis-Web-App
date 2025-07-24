@@ -89,5 +89,5 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ## 👨‍💻 Author
 - **Yug Jasoliya**
 - 📧 [Yugjasoliya49@gmail.com]
-- 🔗 [LinkedIn Profile](linkedin.com/in/yug-jasoliya)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yug-jasoliya-69691126b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
