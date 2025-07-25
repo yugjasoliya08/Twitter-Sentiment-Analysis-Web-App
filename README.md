@@ -66,14 +66,14 @@ pip install -r requirements.txt
 4.Run the Streamlit app:
 streamlit run app.py
 
-5. ➕ Add Folder Descriptions to README Top Summary
+5. Folder Descriptions to README Top Summary
  This project is divided into:
 - `app/`: Streamlit frontend and model code
 - `data/`: Dataset CSV for training
 - `notebook/`: Exploratory analysis and training notebook
 
 ---
-### ✅ **Add How It Works**
+### ✅ **How It Works**
 ```markdown
 ## ⚙️ How It Works
 1. User inputs a tweet-like message in the Streamlit web app.
